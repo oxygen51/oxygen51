@@ -4,7 +4,7 @@
 
 <div id="profile-views-badge" align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=oxygen51)](https://github.com/oxygen51)
+![](https://komarev.com/ghpvc/?username=mdnuruzzamanKALLOL&label=PROFILE+VIEWS)
 
 </div>
 
