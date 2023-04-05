@@ -1,24 +1,5 @@
---- ![visitors](https://visitor-badge.glitch.me/badge?page_id=mdnuruzzamanKALLOL&left_color=green&right_color=red)
+<div style="text-align:center">
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=mdnuruzzamanKALLOL&left_color=green&right_color=red)
 
-This is some text&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;with multiple spaces.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Indented text
-
-
-### Hi there 👋
-
-<!--
-**oxygen51/oxygen51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
