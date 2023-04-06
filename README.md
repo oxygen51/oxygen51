@@ -1,5 +1,5 @@
-![](https://raw.githubusercontent.com/oxygen51/mdshemul48/main/profile-summary-card-output/dracula/3-stats.svg)
-![](https://raw.githubusercontent.com/oxygen51/mdshemul48/main/profile-summary-card-output/dracula/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/oxygen51/oxygen51/main/profile-summary-card-output/dracula/3-stats.svg)
+![](https://raw.githubusercontent.com/oxygen51/oxygen51/main/profile-summary-card-output/dracula/2-most-commit-language.svg)
 
 
 
