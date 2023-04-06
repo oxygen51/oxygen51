@@ -46,7 +46,7 @@
         <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg">
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg">
     </td>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg">
