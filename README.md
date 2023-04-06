@@ -6,7 +6,7 @@
         <img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg">
     </td>
     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
+        <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg">
     </td>
     <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg">
