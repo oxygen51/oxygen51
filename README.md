@@ -8,4 +8,4 @@
 
 
 
-<a href="mailto:istiyakaminsanto@gmail.com" target="_blank"><img src="https://img.shields.io/badge/EMAIL-red?style=for-the-badge&logo=gmail" style='width: 28px' target="_blank"></a>  
+<a href="mailto:istiyakaminsanto@gmail.com" target="_blank"><img src="https://img.shields.io/badge/EMAIL-red?style=for-the-badge&logo=gmail" target="_blank"></a>  
