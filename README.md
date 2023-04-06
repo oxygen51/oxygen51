@@ -4,3 +4,4 @@
 [![Codersrank](https://img.shields.io/badge/CODERSRANK-gray?style=for-the-badge&logo=codersrank)](https://m.me/ok.tata.good.bye.gaya)
 [![Facebook](https://img.shields.io/badge/FACEBOOK-blue?style=for-the-badge&logo=facebook)](https://m.me/ok.tata.good.bye.gaya)
 [![Gmail](https://img.shields.io/badge/EMAIL-red?style=for-the-badge&logo=gmail)](https://m.me/ok.tata.good.bye.gaya)
+[![Whatsapp](https://img.shields.io/badge/WHATSAPP-red?style=for-the-badge&logo=whatsapp)](https://m.me/ok.tata.good.bye.gaya)
