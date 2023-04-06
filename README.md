@@ -20,10 +20,10 @@
 </tr>
 <tr>
     <td align='center' width="190">
-        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
+        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" width="60">
     </td>
     <td align='center' width="190">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="60">
+        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg" width="60">
     </td>
      <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" width="110">
