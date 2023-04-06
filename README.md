@@ -20,7 +20,7 @@
 </tr>
 <tr>
     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" width="60">
+        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" width="160">
     </td>
     <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg" width="60">
