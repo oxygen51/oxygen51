@@ -3,7 +3,7 @@
 <table width="100">
 <tr>
     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg">
+        <img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg">
     </td>
     <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
