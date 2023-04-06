@@ -12,5 +12,3 @@
   </tr>
 </table>
 <br>
-
-<h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-graph.png" /><i> GitHub Contribution Graph :</i></h2>
