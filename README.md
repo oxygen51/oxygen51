@@ -4,4 +4,4 @@
 [![Gitlab](https://img.shields.io/badge/GITLAB-red?style=for-the-badge&logo=gitlab)](https://gitlab.com/mdnuruzzamanKALLOL)
 [![Codersrank](https://img.shields.io/badge/CODERSRANK-gray?style=for-the-badge&logo=codersrank)](https://profile.codersrank.io/user/mdnuruzzamankallol/)
 [![Facebook](https://img.shields.io/badge/FACEBOOK-blue?style=for-the-badge&logo=facebook)]()
-[![Whatsapp](https://img.shields.io/badge/WHATSAPP-limeGreen?style=for-the-badge&logo=whatsapp)](https://m.me/ok.tata.good.bye.gaya)
+[![Whatsapp](https://img.shields.io/badge/WHATSAPP-limeGreen?style=for-the-badge&logo=whatsapp)](https://wa.me/+8801747477707)
