@@ -9,7 +9,7 @@
         <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
     </td>
     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg">
+        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
     </td>
      <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg">
