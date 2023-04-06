@@ -5,4 +5,7 @@
 [![Codersrank](https://img.shields.io/badge/CODERSRANK-gray?style=for-the-badge&logo=codersrank)](https://m.me/ok.tata.good.bye.gaya)
 [![Facebook](https://img.shields.io/badge/FACEBOOK-blue?style=for-the-badge&logo=facebook)](https://m.me/ok.tata.good.bye.gaya)
 [![Whatsapp](https://img.shields.io/badge/WHATSAPP-limeGreen?style=for-the-badge&logo=whatsapp)](https://m.me/ok.tata.good.bye.gaya)
-<a href="mailto:istiyakaminsanto@gmail.com" target="_blank"><img src="https://play-lh.googleusercontent.com/D1Dz2BjPYev_oyksKXsdtAS66a_2Ql-sklpzTnwR9lqnDG_P5lAJEtfR70FudJ0XMA=s48-rw" style='width: 28px' target="_blank"></a>  
+
+
+
+<a href="mailto:istiyakaminsanto@gmail.com" target="_blank"><img src="https://img.shields.io/badge/EMAIL-red?style=for-the-badge&logo=gmail" style='width: 28px' target="_blank"></a>  
