@@ -21,4 +21,4 @@ const U7P4L = {
 ```
   
   
-<p align="center"><img src="https://github.com/oxygen51/oxygen51/blob/main/inmr-error%20(1).png" alt="Bt" width="200">
+<p align="center"><img src="https://github.com/oxygen51/oxygen51/blob/main/inmr-error%20(1).png" alt="Bt" width="400">
