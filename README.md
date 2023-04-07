@@ -19,3 +19,6 @@ const U7P4L = {
  challenge: "I am doing the #100DaysOfCode challenge focused on shell and python"
 }
 ```
+  
+  
+<p align="center"><img src="https://github.com/oxygen51/oxygen51/blob/main/inmr-error%20(1).png" alt="Bt">
